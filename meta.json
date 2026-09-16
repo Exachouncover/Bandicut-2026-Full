@@ -1,0 +1,23 @@
+{
+  "repo": "bandicut-2026-full",
+  "product": "Bandicut 2026 Full",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "video-cut",
+  "topics": [
+    "bandicut-suite",
+    "lossless-video-cut",
+    "clip-join-tools",
+    "bandicut-windows",
+    "fast-trim-2026",
+    "how-to-install-bandicut",
+    "bandicut-desktop-package",
+    "hevc-export-desk",
+    "gif-cut-suite",
+    "bandicut-install-guide"
+  ],
+  "site": "toolix.me"
+}
